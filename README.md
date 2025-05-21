@@ -1,1 +1,1 @@
-the api secret key here is longer usable just change it
+the api secret key here is no longer usable just change it
